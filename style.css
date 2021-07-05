@@ -33,6 +33,7 @@ border-bottom: 1px solid white;
 
 p.description {
   margin: 10px;
+  line-height: 20px;
 }
 
 .grid_info_year{
